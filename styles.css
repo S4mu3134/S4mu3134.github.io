@@ -1,0 +1,11 @@
+.boton {
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 20px;
+    color: mediumturquoise;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
+    background-color: beige;
+}
