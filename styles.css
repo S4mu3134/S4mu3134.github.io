@@ -1,11 +1,14 @@
-.boton {
-    text-decoration: none;
+.but_ton {
+    text-decoration:none;
     font-weight: 600;
     font-size: 20px;
-    color: mediumturquoise;
-    padding-top: 20px;
-    padding-bottom: 20px;
-    padding-left: 40px;
-    padding-right: 40px;
-    background-color: beige;
-}
+    color:#000000;
+    padding-top:15px;
+    padding-bottom:15px;
+    padding-left:40px;
+    padding-right:40px;
+    background-color: transparent;
+    border-width: 3px;
+    border-style: solid;
+    border-color: transparent;
+    }
