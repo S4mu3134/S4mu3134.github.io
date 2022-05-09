@@ -11,6 +11,7 @@
     border-width: 3px;
     border-style: solid;
     border-color: transparent;
+    border-radius: 12px;
     }
 .pr {
     text-decoration:none;
@@ -21,10 +22,11 @@
     padding-bottom:15px;
     padding-left:20px;
     padding-right:20px;
-    background-color: transparent;
+    background-color: rgb(207, 207, 1);
     border-width: 3px;
     border-style: solid;
     border-color: transparent;
+    border-radius: 12px;
     }
 .es {
     text-decoration:none;
@@ -35,10 +37,11 @@
     padding-bottom:15px;
     padding-left:20px;
     padding-right:20px;
-    background-color: transparent;
+    background-color: rgb(207, 207, 1);
     border-width: 3px;
     border-style: solid;
     border-color: transparent;
+    border-radius: 12px;
     }
 .qs {
     text-decoration:none;
@@ -49,10 +52,11 @@
     padding-bottom:15px;
     padding-left:20px;
     padding-right:20px;
-    background-color: transparent;
+    background-color: rgb(207, 207, 1);
     border-width: 3px;
     border-style: solid;
     border-color: transparent;
+    border-radius: 12px;
     }
 body {
     background-color: rgb(26, 26, 61);
