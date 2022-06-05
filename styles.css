@@ -1,72 +1,25 @@
-.but_ton {
-    text-decoration:none;
-    font-weight: 600;
-    font-size: 20px;
-    color:#ffffff;
-    padding-top:15px;
-    padding-bottom:15px;
-    padding-left:20px;
-    padding-right:20px;
-    background-color: transparent;
-    border-width: 3px;
-    border-style: solid;
-    border-color: transparent;
-    border-radius: 12px;
-    }
-.pr {
-    text-decoration:none;
-    font-weight: 600;
-    font-size: 20px;
-    color:#ffffff;
-    padding-top:15px;
-    padding-bottom:15px;
-    padding-left:20px;
-    padding-right:20px;
-    background-color: rgb(207, 207, 1);
-    border-width: 3px;
-    border-style: solid;
-    border-color: transparent;
-    border-radius: 12px;
-    }
-.es {
-    text-decoration:none;
-    font-weight: 600;
-    font-size: 20px;
-    color:#ffffff;
-    padding-top:15px;
-    padding-bottom:15px;
-    padding-left:20px;
-    padding-right:20px;
-    background-color: rgb(207, 207, 1);
-    border-width: 3px;
-    border-style: solid;
-    border-color: transparent;
-    border-radius: 12px;
-    }
-.qs {
-    text-decoration:none;
-    font-weight: 600;
-    font-size: 20px;
-    color:#ffffff;
-    padding-top:15px;
-    padding-bottom:15px;
-    padding-left:20px;
-    padding-right:20px;
-    background-color: rgb(207, 207, 1);
-    border-width: 3px;
-    border-style: solid;
-    border-color: transparent;
-    border-radius: 12px;
-    }
-body {
-    background-color: rgb(26, 26, 61);
-    font-family: sans-serif;
-    color: #ffffff;
+#es{
+    width: 50px; height: 50px;
 }
-h1{
-    letter-spacing: 6px;
-    font-family: sans-serif;
-    text-align: center;
-    text-transform: uppercase;
-    color: #ffffff;
+#bus {
+    width: 50px; height: 50px;
+}
+#cr {
+    width: 50px; height: 50px;
+
+}
+#log {
+    width: 50px; height: 50px;
+}
+.button {
+    left: 0%; position: absolute;
+}
+.bus{
+    left: 5%; position: absolute;
+}
+.car{
+    left: 90%; position: absolute;
+}
+.login{
+    left: 95%; position: absolute;
 }
